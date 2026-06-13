@@ -62,8 +62,6 @@
 
 <div align="center">
 
-**🥭 MANGOS** &nbsp;·&nbsp; Early-stage security startup &nbsp;·&nbsp; Pre-launch
-
 `Hooghly Engineering and Technology College · B.Tech CSE · 2024–2028`
 
 </div>
