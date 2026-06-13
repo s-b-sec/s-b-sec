@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <defs>
+    <style>
+      .mono { font-family: 'Courier New', Courier, monospace; }
+    </style>
+    <pattern id="scan3" x="0" y="0" width="800" height="3" patternUnits="userSpaceOnUse">
+      <rect width="800" height="1" fill="rgba(0,0,0,0.12)"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="200" rx="10" fill="#0d1117"/>
+
+  <!-- Title bar -->
+  <rect width="800" height="30" rx="10" fill="#161b22"/>
+  <rect y="20" width="800" height="12" fill="#161b22"/>
+  <circle cx="22" cy="15" r="5.5" fill="#ff5f57"/>
+  <circle cx="41" cy="15" r="5.5" fill="#febc2e"/>
+  <circle cx="60" cy="15" r="5.5" fill="#28c840"/>
+  <text x="400" y="20" text-anchor="middle" fill="#484f58" font-size="12" class="mono">~/s-b-sec — certifications</text>
+
+  <!-- Prompt line -->
+  <text y="64" font-size="13" class="mono">
+    <tspan x="20" fill="#39d353">└─</tspan><tspan fill="#e06c75">$ </tspan><tspan fill="#cdd6f4">tree ~/certifications</tspan>
+  </text>
+
+  <!-- Tree root -->
+  <text x="20" y="88" fill="#FFD700" font-size="13" class="mono">~/certifications</text>
+
+  <!-- Branch 1 -->
+  <text y="108" font-size="13" class="mono">
+    <tspan x="20" fill="#484f58">├──</tspan>
+    <tspan fill="#56b6c2"> 📜 </tspan>
+    <tspan fill="#cdd6f4">Ethical Hacking</tspan>
+  </text>
+
+  <!-- Branch 2 -->
+  <text y="126" font-size="13" class="mono">
+    <tspan x="20" fill="#484f58">├──</tspan>
+    <tspan fill="#56b6c2"> 📜 </tspan>
+    <tspan fill="#cdd6f4">Cryptography and Network Security</tspan>
+  </text>
+
+  <!-- Branch 3 -->
+  <text y="144" font-size="13" class="mono">
+    <tspan x="20" fill="#484f58">├──</tspan>
+    <tspan fill="#56b6c2"> 📜 </tspan>
+    <tspan fill="#cdd6f4">Computer Networks and Internet Protocol</tspan>
+  </text>
+
+  <!-- Branch 4 (last) -->
+  <text y="162" font-size="13" class="mono">
+    <tspan x="20" fill="#484f58">└──</tspan>
+    <tspan fill="#56b6c2"> 📜 </tspan>
+    <tspan fill="#cdd6f4">The Joy of Computing using Python</tspan>
+  </text>
+
+  <!-- Summary line -->
+  <text x="20" y="182" fill="#484f58" font-size="12" class="mono">4 certifications</text>
+
+  <!-- Blinking cursor after summary -->
+  <rect x="132" y="170" width="8" height="13" fill="#cdd6f4">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Scanline overlay -->
+  <rect width="800" height="200" rx="10" fill="url(#scan3)" opacity="1"/>
+</svg>
