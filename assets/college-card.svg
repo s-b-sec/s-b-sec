@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="80" viewBox="0 0 800 80">
+  <defs>
+    <style>
+      .mono { font-family: 'Courier New', Courier, monospace; }
+    </style>
+    <pattern id="scan5" x="0" y="0" width="800" height="3" patternUnits="userSpaceOnUse">
+      <rect width="800" height="1" fill="rgba(0,0,0,0.12)"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="80" rx="10" fill="#0d1117"/>
+
+  <!-- Title bar -->
+  <rect width="800" height="26" rx="10" fill="#161b22"/>
+  <rect y="16" width="800" height="10" fill="#161b22"/>
+  <circle cx="18" cy="13" r="4.5" fill="#ff5f57"/>
+  <circle cx="34" cy="13" r="4.5" fill="#febc2e"/>
+  <circle cx="50" cy="13" r="4.5" fill="#28c840"/>
+  <text x="400" y="18" text-anchor="middle" fill="#484f58" font-size="11" class="mono">~/s-b-sec — education</text>
+
+  <!-- Prompt -->
+  <text y="55" font-size="13" class="mono">
+    <tspan x="20" fill="#39d353">└─</tspan>
+    <tspan fill="#e06c75">$ </tspan>
+    <tspan fill="#484f58">echo $EDUCATION</tspan>
+  </text>
+
+  <!-- Typing text: full string revealed char by char via clipPath animation -->
+  <!-- The text -->
+  <text x="20" y="72" font-size="13" fill="#39d353" class="mono" id="edu-text">Hooghly Engineering and Technology College · B.Tech CSE · 2024–2028</text>
+
+  <!-- White cover rect sliding right to reveal text (typewriter effect) -->
+  <rect x="20" y="58" width="760" height="18" fill="#0d1117">
+    <animate attributeName="width" from="760" to="0" dur="3s" begin="0.3s" fill="freeze" calcMode="linear"/>
+  </rect>
+
+  <!-- Blinking cursor -->
+  <rect x="24" y="60" width="8" height="13" fill="#39d353">
+    <!-- move right as text reveals: ~10.5px per char, 68 chars total = ~714px, over 3s -->
+    <animate attributeName="x" from="24" to="738" dur="3s" begin="0.3s" fill="freeze" calcMode="linear"/>
+    <!-- blink after typing done -->
+    <animate attributeName="opacity" values="1;0;1" dur="0.8s" begin="3.3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Scanline -->
+  <rect width="800" height="80" rx="10" fill="url(#scan5)" opacity="1"/>
+</svg>
