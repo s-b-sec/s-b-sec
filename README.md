@@ -14,27 +14,13 @@
 
 <img align="right" width="38%" src="https://github-readme-activity-graph.vercel.app/graph?username=s-b-sec&theme=tokyo-night&hide_border=true&area=true&hide_title=true&color=39d353&line=39d353&point=39d353&radius=4" alt="activity graph"/>
 
-**Languages**
-
-[![Skills](https://skillicons.dev/icons?i=c,python,bash,mysql)](https://skillicons.dev)
-
-**Tooling**
-
-[![Tools](https://skillicons.dev/icons?i=linux,git,vim)](https://skillicons.dev)
-
-`Nmap` &nbsp;·&nbsp; `Wireshark` &nbsp;·&nbsp; `BruteSpray` &nbsp;·&nbsp; `Splunk` &nbsp;·&nbsp; `VMware`
-
 <br/>
 
-**Certifications**
+<img src="https://raw.githubusercontent.com/s-b-sec/s-b-sec/main/assets/stats-card.svg" width="60%" alt="Languages and Tools"/>
 
-```
-~/certifications
-├── Ethical Hacking
-├── Cryptography and Network Security
-├── Computer Networks and Internet Protocol
-└── The Joy of Computing using Python
-```
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/s-b-sec/s-b-sec/main/assets/certs-card.svg" width="60%" alt="Certifications"/>
 
 <br clear="right"/>
 
@@ -42,7 +28,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=s-b-sec&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://raw.githubusercontent.com/s-b-sec/s-b-sec/main/assets/achievements-card.svg" width="100%" alt="Achievements"/>
 
 </div>
 
