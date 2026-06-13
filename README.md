@@ -41,7 +41,7 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=s-b-sec&show_icons=true&theme=tokyo-night&hide_border=true&hide_title=true&count_private=true&icon_color=FFD700)&nbsp;&nbsp;
+![Stats](https://github-readme-stats.vercel.app/api?username=s-b-sec&show_icons=true&theme=tokyo-night&hide_border=true&icon_color=FFD700&include_all_commits=true)&nbsp;&nbsp;
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-b-sec&layout=compact&theme=tokyo-night&hide_border=true&langs_count=4)
 
 </div>
@@ -61,6 +61,8 @@
 ---
 
 <div align="center">
+
+**🥭 MANGOS** &nbsp;·&nbsp; Early-stage security startup &nbsp;·&nbsp; Pre-launch
 
 `Hooghly Engineering and Technology College · B.Tech CSE · 2024–2028`
 
