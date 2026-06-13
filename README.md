@@ -6,15 +6,13 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbsec)&nbsp;
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=s-b-sec&style=flat-square&color=39d353&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbsec)
 
 </div>
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-activity-graph.vercel.app/graph?username=s-b-sec&theme=tokyo-night&hide_border=true&area=true&hide_title=true&color=39d353&line=39d353&point=FFD700" alt="activity"/>
+<img align="right" width="38%" src="https://github-readme-activity-graph.vercel.app/graph?username=s-b-sec&theme=tokyo-night&hide_border=true&area=true&hide_title=true&color=39d353&line=39d353&point=39d353&custom_title=&radius=4&area_color=39d353" alt="activity graph"/>
 
 **Languages**
 
@@ -24,16 +22,18 @@
 
 [![Tools](https://skillicons.dev/icons?i=linux,git,vim)](https://skillicons.dev)
 
-`Nmap` &nbsp; `Wireshark` &nbsp; `BruteSpray` &nbsp; `Splunk` &nbsp; `VMware`
+`Nmap` &nbsp;·&nbsp; `Wireshark` &nbsp;·&nbsp; `BruteSpray` &nbsp;·&nbsp; `Splunk` &nbsp;·&nbsp; `VMware`
+
+<br/>
 
 **Certifications**
 
-```
- Ethical Hacking
- Cryptography and Network Security
- Computer Networks and Internet Protocol
- The Joy of Computing using Python
-```
+| &nbsp; | &nbsp; |
+|--------|--------|
+| `01` | Ethical Hacking |
+| `02` | Cryptography and Network Security |
+| `03` | Computer Networks and Internet Protocol |
+| `04` | The Joy of Computing using Python |
 
 <br clear="right"/>
 
@@ -41,7 +41,7 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=s-b-sec&show_icons=true&theme=tokyo-night&hide_border=true&icon_color=FFD700&include_all_commits=true)&nbsp;&nbsp;
+![Stats](https://github-readme-stats.vercel.app/api?username=s-b-sec&show_icons=true&theme=tokyo-night&hide_border=true&icon_color=FFD700&include_all_commits=true&count_private=true)&nbsp;&nbsp;
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-b-sec&layout=compact&theme=tokyo-night&hide_border=true&langs_count=4)
 
 </div>
@@ -61,8 +61,6 @@
 ---
 
 <div align="center">
-
-**🥭 MANGOS** &nbsp;·&nbsp; Early-stage security startup &nbsp;·&nbsp; Pre-launch
 
 `Hooghly Engineering and Technology College · B.Tech CSE · 2024–2028`
 
