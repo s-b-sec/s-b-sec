@@ -1,7 +1,8 @@
 <div align="center">
 
 # Sayan Biswas
-**Penetration Testing · Ethical Hacking · Vulnerability Assessment**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Penetration+Testing+%7C+Ethical+Hacking;Vulnerability+Assessment+%7C+SIEM;Chosen%2C+not+assigned.)](https://git.io/typing-svg)
 
 B.Tech CSE · Hooghly Engineering and Technology College (2024–2028)
 
@@ -42,6 +43,10 @@ B.Tech CSE · Hooghly Engineering and Technology College (2024–2028)
   
 ---
 
+## Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=s-b-sec&theme=react-dark&hide_border=true&area=true&color=00FF41&line=00FF41&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div align="center">
 
 <picture>
@@ -50,6 +55,12 @@ B.Tech CSE · Hooghly Engineering and Technology College (2024–2028)
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/s-b-sec/s-b-sec/output/pacman.svg">
 </picture>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-b-sec&show_icons=true&theme=default&hide_title=true&count_private=true)
+</div>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-b-sec&show_icons=true&theme=react&hide_title=true&hide_border=true&count_private=true)
+&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-b-sec&layout=compact&theme=react&hide_border=true)
 
 </div>
