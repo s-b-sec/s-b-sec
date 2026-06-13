@@ -48,6 +48,6 @@
 
 <div align="center">
 
-`Hooghly Engineering and Technology College · B.Tech CSE · 2024–2028`
+<img src="https://raw.githubusercontent.com/s-b-sec/s-b-sec/main/assets/college-card.svg" width="100%" alt="Hooghly Engineering and Technology College · B.Tech CSE · 2024–2028"/>
 
 </div>
