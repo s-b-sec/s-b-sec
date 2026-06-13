@@ -12,7 +12,7 @@
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-activity-graph.vercel.app/graph?username=s-b-sec&theme=tokyo-night&hide_border=true&area=true&hide_title=true&color=39d353&line=39d353&point=39d353&custom_title=&radius=4&area_color=39d353" alt="activity graph"/>
+<img align="right" width="38%" src="https://github-readme-activity-graph.vercel.app/graph?username=s-b-sec&theme=tokyo-night&hide_border=true&area=true&hide_title=true&color=39d353&line=39d353&point=39d353&radius=4" alt="activity graph"/>
 
 **Languages**
 
@@ -28,12 +28,13 @@
 
 **Certifications**
 
-| &nbsp; | &nbsp; |
-|--------|--------|
-| `01` | Ethical Hacking |
-| `02` | Cryptography and Network Security |
-| `03` | Computer Networks and Internet Protocol |
-| `04` | The Joy of Computing using Python |
+```
+~/certifications
+├── Ethical Hacking
+├── Cryptography and Network Security
+├── Computer Networks and Internet Protocol
+└── The Joy of Computing using Python
+```
 
 <br clear="right"/>
 
@@ -41,8 +42,7 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=s-b-sec&show_icons=true&theme=tokyo-night&hide_border=true&icon_color=FFD700&include_all_commits=true&count_private=true)&nbsp;&nbsp;
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-b-sec&layout=compact&theme=tokyo-night&hide_border=true&langs_count=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=s-b-sec&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
