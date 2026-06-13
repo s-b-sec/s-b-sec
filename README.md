@@ -39,13 +39,7 @@ B.Tech CSE · Hooghly Engineering and Technology College (2024–2028)
 - Cryptography and Network Security
 - Computer Networks and Internet Protocol
 - The Joy of Computing using Python
-
----
-
-## MANGOS
-
-Early-stage security-focused startup. In development.
-
+  
 ---
 
 <div align="center">
