@@ -1,8 +1,9 @@
 <div align="center">
 
 # Sayan Biswas
+**Penetration Testing · Ethical Hacking · Vulnerability Assessment**
 
-Cybersecurity (Pentesting Track) · C / Python / Bash / MySQL
+B.Tech CSE · Hooghly Engineering and Technology College (2024–2028)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbsec)
 
@@ -10,30 +11,40 @@ Cybersecurity (Pentesting Track) · C / Python / Bash / MySQL
 
 ---
 
-## About
-
-CS student specializing in cybersecurity, focused on networking, Linux internals, and scripting for security automation. Currently working through structured pentesting labs.
+> *Defending anything well requires understanding how it breaks.*
 
 ---
 
-## Skills
+## Technical Skills
 
-**Languages:** C · Python · Bash · MySQL
+**Languages**
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Tools:** Nmap · Wireshark · BruteSpray · Splunk · VMware · Linux · Git
+**Security**
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![BruteSpray](https://img.shields.io/badge/BruteSpray-555555?style=flat)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
-## Projects
+## Certifications
 
-- **Recon Automation Toolkit** — Bash/Python CLI for port scanning and subdomain checks (in progress)
-- **MySQL Security Lab** — SQL injection demo with remediation scripts (planned)
+- Ethical Hacking
+- Cryptography and Network Security
+- Computer Networks and Internet Protocol
+- The Joy of Computing using Python
 
 ---
 
 ## MANGOS
 
-Early-stage startup project — in development.
+Early-stage security-focused startup. In development.
 
 ---
 
@@ -45,6 +56,6 @@ Early-stage startup project — in development.
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/s-b-sec/s-b-sec/output/pacman.svg">
 </picture>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-b-sec&show_icons=true&theme=default&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s-b-sec&show_icons=true&theme=default&hide_title=true&count_private=true)
 
 </div>
